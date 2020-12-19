@@ -2,8 +2,8 @@
 CTBot myBot;
 
 //wifi baglanti bilgileri
-String ssid  = "redmi123"; //wifi adi 
-String pass  = "ankara12"; //wifi sifre
+String ssid  = ""; //wifi adi 
+String pass  = ""; //wifi sifre
 String token = "981265245:AAEcnzWxjQlwziWjx-o6sp4XoWwb8lxNEdg"; //Token bot Telegram
 
 const int sensor=A0; // Assigning analog pin A0 to variable 'sensor'
